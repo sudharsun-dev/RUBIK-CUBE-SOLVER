@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/cube_engine_tests.dir/link.d CMakeFiles/cube_engine_tests.dir/tests/test_cube.cpp.o -o cube_engine_tests  librubiks_core.a

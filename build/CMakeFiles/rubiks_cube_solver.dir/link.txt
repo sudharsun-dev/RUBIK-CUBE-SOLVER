@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/rubiks_cube_solver.dir/link.d CMakeFiles/rubiks_cube_solver.dir/src/main.cpp.o -o rubiks_cube_solver  librubiks_core.a

@@ -1,0 +1,6 @@
+/home/runner/work/RUBIK-CUBE-SOLVER/RUBIK-CUBE-SOLVER/build/CMakeFiles/rubiks_core.dir
+/home/runner/work/RUBIK-CUBE-SOLVER/RUBIK-CUBE-SOLVER/build/CMakeFiles/rubiks_cube_solver.dir
+/home/runner/work/RUBIK-CUBE-SOLVER/RUBIK-CUBE-SOLVER/build/CMakeFiles/cube_engine_tests.dir
+/home/runner/work/RUBIK-CUBE-SOLVER/RUBIK-CUBE-SOLVER/build/CMakeFiles/test.dir
+/home/runner/work/RUBIK-CUBE-SOLVER/RUBIK-CUBE-SOLVER/build/CMakeFiles/edit_cache.dir
+/home/runner/work/RUBIK-CUBE-SOLVER/RUBIK-CUBE-SOLVER/build/CMakeFiles/rebuild_cache.dir

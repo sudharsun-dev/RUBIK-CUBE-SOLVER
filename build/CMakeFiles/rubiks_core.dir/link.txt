@@ -1,0 +1,2 @@
+/usr/bin/ar qc librubiks_core.a CMakeFiles/rubiks_core.dir/src/Cube.cpp.o CMakeFiles/rubiks_core.dir/src/Move.cpp.o
+/usr/bin/ranlib librubiks_core.a
